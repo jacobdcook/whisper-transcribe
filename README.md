@@ -38,6 +38,10 @@ python transcribe_to_txt.py audio.mp3 --model medium --language es -o output.txt
 | `--language` | `en` | Language code |
 | `-o`, `--output` | `<input>.txt` | Output file path |
 
+## Supported formats
+
+MP3, WAV, M4A, FLAC, OGG, Opus, WebM
+
 ## Example output
 
 ```
